@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const NavbarTwo = () => {
   return (
     <>
-         <nav className='p-5 bg-[#7469B6]'>
+         <nav className='p-5 bg-[#FFB1B1]'>
             <div className="container">
                 <div className="menu_row flex justify-between items-center">
                     <div className="logo_col text-[35px] font-bold font-poppins text-black">Logo</div>

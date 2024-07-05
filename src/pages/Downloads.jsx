@@ -2,7 +2,7 @@ import React from 'react'
 
 const Downloads = () => {
   return (
-    <div className='w-full h-[700px] bg-[#6a68d1] flex justify-center items-center'>
+    <div className='w-full h-[700px] bg-[#FEAE6F] flex justify-center items-center'>
             <h1 className='text-7xl font-bold text-black'>Downloads</h1>
         </div>
   )
